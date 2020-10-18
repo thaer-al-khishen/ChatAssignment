@@ -70,7 +70,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Thaer",
                         "",
                         null,
-                        R.drawable.stevejobsimage
+                        R.drawable.manpicture1
                     )
                 )
                 userDao.insertUser(
@@ -142,7 +142,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Raed",
                         "",
                         null,
-                        R.drawable.manpicture6
+                        R.drawable.manpicture1
                     )
                 )
                 userDao.insertUser(
@@ -178,7 +178,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Mira",
                         "",
                         null,
-                        R.drawable.womanpicture6
+                        R.drawable.womanpicture2
                     )
                 )
                 userDao.insertUser(
@@ -391,7 +391,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                 userDao.insertUser(
                     User(
                         37,
-                        "Rami",
+                        "Rafeh",
                         "",
                         null,
                         R.drawable.manpicture1
@@ -502,7 +502,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Sara",
                         "",
                         null,
-                        R.drawable.womanpicture6
+                        R.drawable.womanpicture2
                     )
                 )
                 userDao.insertUser(
@@ -538,7 +538,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Maher",
                         "",
                         null,
-                        R.drawable.manpicture6
+                        R.drawable.manpicture1
                     )
                 )
                 userDao.insertUser(
@@ -835,7 +835,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Lewaa",
                         "",
                         null,
-                        R.drawable.manpicture6
+                        R.drawable.manpicture1
                     )
                 )
                 userDao.insertUser(
@@ -907,7 +907,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Nagham",
                         "",
                         null,
-                        R.drawable.womanpicture6
+                        R.drawable.womanpicture2
                     )
                 )
                 userDao.insertUser(
@@ -1141,7 +1141,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Jason",
                         "",
                         null,
-                        R.drawable.manpicture6
+                        R.drawable.manpicture1
                     )
                 )
                 userDao.insertUser(
@@ -1339,7 +1339,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Thiago",
                         "",
                         null,
-                        R.drawable.manpicture6
+                        R.drawable.manpicture1
                     )
                 )
                 userDao.insertUser(
@@ -1546,7 +1546,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Catherine",
                         "",
                         null,
-                        R.drawable.womanpicture6
+                        R.drawable.womanpicture2
                     )
                 )
                 userDao.insertUser(
@@ -1726,7 +1726,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Felix",
                         "",
                         null,
-                        R.drawable.manpicture6
+                        R.drawable.manpicture1
                     )
                 )
                 userDao.insertUser(
