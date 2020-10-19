@@ -70,7 +70,7 @@ abstract class ApplicationDatabase : RoomDatabase() {
                         "Thaer",
                         "",
                         null,
-                        R.drawable.manpicture1
+                        R.drawable.stevejobsimage
                     )
                 )
                 userDao.insertUser(
